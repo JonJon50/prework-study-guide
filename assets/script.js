@@ -29,5 +29,3 @@ selectTopic();
 
 
 
-listTopics() 
-selectTopic() 
