@@ -2,7 +2,7 @@
 
 ## This is a **UCF Bootcamp** notes study guide. Developing this site, to help with forward mindset. Implementing * HTML * CSS * Javascript
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 
 - Learning while building this Prework Study Guide has help with my growth mindset to succeed in my long term goals in tech.
 - Building this project, hoping it helps students to stay organize in classes, and it's given me real world experience.
