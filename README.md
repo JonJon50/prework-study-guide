@@ -1,6 +1,6 @@
 # <Prework Study Guide Webpage>
 
-## This is a **UCF Bootcamp** study guide. Developing this site, to help with forward mindset. Implementing * HTML * CSS * Javascript
+## This is a **UCF Bootcamp** notes study guide. Developing this site, to help with forward mindset. Implementing * HTML * CSS * Javascript
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
