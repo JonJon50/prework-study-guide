@@ -1,6 +1,6 @@
 # <Prework Study Guide Webpage>
 
-## This is a **UCF Bootcamp** study guide. Developing this site, to help with notes along the way. Implementing *HTML * CSS * Javascript
+## This is a **UCF Bootcamp** study guide. Developing this site, to help with forward mindset. Implementing * HTML * CSS * Javascript
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -10,8 +10,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - I've learned new ways to run commands in Git, how to apply CSS in ways that appeals to end user. Also more about loops, if, for, function in Javascipt.
 
 
-- [Installation](#N/A)
+- [Installation] #N/A
 - [Usage](#This applies to students within Tech looking to up their game in coding learnings. Also in DevTools console to see Javascript in action.)
-- [Credits](#N/A)
-- [License](#MIT)
+- [Credits] #N/A
+- [License] #MIT
 
